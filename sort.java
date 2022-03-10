@@ -30,5 +30,5 @@ class Sort
 		System.out.println("Sorted array is:=");
 		for(int i=0;i<n;i++)
 		System.out.println(" "+num[i]);
-  }
+  	}
 }
